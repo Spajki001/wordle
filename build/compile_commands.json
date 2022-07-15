@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/build",
+  "command": "\"C:/Program Files/MinGW/bin/gcc.exe\"   -g -std=gnu99 -o CMakeFiles/Wordle.dir/src/list.c.obj -c D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/src/list.c",
+  "file": "D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/src/list.c"
+},
+{
+  "directory": "D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/build",
+  "command": "\"C:/Program Files/MinGW/bin/gcc.exe\"   -g -std=gnu99 -o CMakeFiles/Wordle.dir/src/main.c.obj -c D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/src/main.c",
+  "file": "D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/src/main.c"
+},
+{
+  "directory": "D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/build",
+  "command": "\"C:/Program Files/MinGW/bin/gcc.exe\"   -g -std=gnu99 -o CMakeFiles/Wordle.dir/src/word_list.c.obj -c D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/src/word_list.c",
+  "file": "D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/src/word_list.c"
+}
+]

@@ -1,0 +1,3 @@
+D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/build/CMakeFiles/Wordle.dir
+D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/build/CMakeFiles/edit_cache.dir
+D:/Korisnici/spaji/Dokumenti/Programiranje/Wordle/build/CMakeFiles/rebuild_cache.dir

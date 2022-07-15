@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "time.h": "c",
+        "word_list.h": "c",
+        "list.h": "c"
+    }
+}
